@@ -6,3 +6,5 @@ pyxlsb
 openpyxl
 xlsxwriter
 IPython
+statsmodels
+ruptures
