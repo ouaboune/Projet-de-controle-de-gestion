@@ -1,3 +1,4 @@
+pmdarima
 pandas 
 streamlit
 matplotlib
