@@ -1,4 +1,5 @@
 pmdarima
+arch
 pandas 
 streamlit
 matplotlib
